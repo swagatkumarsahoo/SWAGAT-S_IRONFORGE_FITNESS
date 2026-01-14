@@ -52,7 +52,7 @@ This project is a fitness gym website built with HTML, CSS, JavaScript, and PHP.
 ## Usage
 
 - Navigate through the sections using the menu or smooth scrolling.
-- Fill out the subscription form to sign up for updates (emails are sent to `anantabose29@gmail.com`).
+- Fill out the subscription form to sign up for updates.
 - Interact with carousels, animations, and counters as you scroll.
 
 ## Project Structure
